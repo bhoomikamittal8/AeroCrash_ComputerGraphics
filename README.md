@@ -36,7 +36,7 @@ and offers complete independence from network protocols and topologies</p>
 
 <h3>Snapshots</h3>
 
-![Screenshot 2023-12-26 172318](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/c9c206e8-8bdc-4d45-8e18-f48e9db74a1d)
+![Screenshot 2023-12-26 170632](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/5dbde7b4-964f-496b-8c0e-4a5eba769ca0)
 <br>
 ![Screenshot 2023-12-26 172326](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/b3fa31b7-93a8-4a7c-bd77-40443326280d)
 <br>
