@@ -26,7 +26,7 @@ and offers complete independence from network protocols and topologies</p>
   <li>OpenGL Library</li>
 </ul>
 
-<h3>Steps To Run the Projects</h3>
+<h3>Steps To Run the Project</h3>
 <ol>
   <li>Download and Extract the ZipFile from github</li>
   <li>Install Codeblocks and Glut Library</li>
