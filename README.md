@@ -20,8 +20,8 @@ and offers complete independence from network protocols and topologies</p>
 
 <h3>Specific Requirements</h3>
 <ul>
-  <li>Windows</li>
-  <li>CodeBlocks</li>
+  <li>Windows OS</li>
+  <li>CodeBlocks IDE with GNU Compiler</li>
   <li>Glut Library</li>
   <li>OpenGL Library</li>
 </ul>
@@ -36,19 +36,13 @@ and offers complete independence from network protocols and topologies</p>
 
 <h3>Snapshots</h3>
 
-![Screenshot 2023-12-26 170632](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/91b7e57f-2d93-4d90-9ee4-24b1f3cf3f9d)
-
+![Screenshot 2023-12-26 172318](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/c9c206e8-8bdc-4d45-8e18-f48e9db74a1d)
 <br>
-
-![Screenshot 2023-12-26 170647](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/ff31232a-9f3c-4639-b166-11e211b439f6)
-
+![Screenshot 2023-12-26 172326](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/b3fa31b7-93a8-4a7c-bd77-40443326280d)
 <br>
-
-![Screenshot 2023-12-26 170657](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/84018075-0b78-4675-b26e-95334f93a05c)
-
+![Screenshot 2023-12-26 172332](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/cd2a4c30-4dd6-4541-9ad5-a71755b0a158)
 <br>
-
-![Screenshot 2023-12-26 170704](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/6ed8c2b8-8de6-4899-881a-9e496c8cd599)
+![Screenshot 2023-12-26 172338](https://github.com/BhoomikaMittal84/AeroCrash_ComputerGraphics/assets/134505091/f29efe8b-c3e6-4b5c-90dc-e642055d0f95)
 <br>
 
 <h3>Team:</h3>
