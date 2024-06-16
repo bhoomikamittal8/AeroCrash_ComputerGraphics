@@ -47,7 +47,10 @@ and offers complete independence from network protocols and topologies</p>
 
 <h3>Team:</h3>
 Bhoomika Mittal, Hasan Abbas <br>
-Contact: <a href=mailto:"bhoomikamittal418@gmail.com">bhoomikamittal418@gmail.com</a><br>
-Note: If anyone need report, then mail me.
+
+## Contact 📞
+
+#### Feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal48/)
+#### Mail ID : bhoomikamittal418@gmail.com
 
 
